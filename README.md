@@ -44,9 +44,21 @@ Puis elles sont affichées dans un TextView.
 📸 Résultat attendu (Captures d’écran)
 📝 Formulaire de saisie (MainActivity)
 
+
+![Aperçu du téléchargement](./capture/1.png)
+
+
 L’utilisateur entre ses informations personnelles.
 
+
+![Aperçu du téléchargement](./capture/2.png)
+
+
 📄 Affichage des données (Screen2Activity)
+
+
+![Aperçu du téléchargement](./capture/3.png)
+
 
 Après avoir cliqué sur Envoyer, les données sont affichées dans le second écran.
 
